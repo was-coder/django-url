@@ -1,10 +1,6 @@
 # Django Url
 
-> This is a huddle landing page
-
-## Mobile Screenshot
-
-![Screenshot]()
+> This is a django url
 
 ## Built With
 
